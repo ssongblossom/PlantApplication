@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PlantApplication.PlantPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Image Source="" x:Name="imageView" />
+            <Label Text="Welcome to Xamarin.Forms!"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" 
+                   x:Name="textPath"/>
+            <Button Text="카메라" Clicked="Button_Clicked"/>
+            <Button Text="등록" Clicked="Button_Clicked_To_Server"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

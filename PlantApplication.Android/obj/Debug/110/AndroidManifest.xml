@@ -7,10 +7,14 @@
     -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.companyname.plantapplication" android:installLocation="preferExternal">
   <uses-sdk android:minSdkVersion="20" android:targetSdkVersion="22" />
-  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <uses-feature android:name="android.hardware.camera" android:required="true" />
+  <uses-feature android:name="android.hardware.camera.autofocus" android:required="true" />
   <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.WAKE_LOCK" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.CAMERA" />
   <application android:label="PlantApplication.Android" android:theme="@style/MainTheme" android:usesCleartextTraffic="true" android:name="android.app.Application" android:allowBackup="true" android:icon="@mipmap/icon" android:debuggable="true">
     <activity android:configChanges="orientation|smallestScreenSize|screenLayout|screenSize|uiMode" android:icon="@mipmap/icon" android:label="PlantApplication" android:theme="@style/MainTheme" android:name="crc642f148d40358c0648.MainActivity">
       <intent-filter>

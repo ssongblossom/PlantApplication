@@ -12,3 +12,5 @@ C:\Users\KOSTA\source\repos\PlantApplication\PlantApplication\obj\Debug\netstand
 C:\Users\KOSTA\source\repos\PlantApplication\PlantApplication\obj\Debug\netstandard2.0\ref\PlantApplication.dll
 C:\Users\KOSTA\source\repos\PlantApplication\PlantApplication\obj\Debug\netstandard2.0\PlantApplication.pdb
 C:\Users\KOSTA\source\repos\PlantApplication\PlantApplication\obj\Debug\netstandard2.0\PlantApplication.csproj.AssemblyReference.cache
+C:\Users\KOSTA\source\repos\PlantApplication\PlantApplication\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\KOSTA\source\repos\PlantApplication\PlantApplication\obj\Debug\netstandard2.0\PlantPage.xaml.g.cs
