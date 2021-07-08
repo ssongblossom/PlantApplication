@@ -1,0 +1,14 @@
+C:\Users\KOSTA\source\repos\PlantApplication\PlantApplication\bin\Debug\netstandard2.0\PlantApplication.deps.json
+C:\Users\KOSTA\source\repos\PlantApplication\PlantApplication\bin\Debug\netstandard2.0\PlantApplication.dll
+C:\Users\KOSTA\source\repos\PlantApplication\PlantApplication\bin\Debug\netstandard2.0\ref\PlantApplication.dll
+C:\Users\KOSTA\source\repos\PlantApplication\PlantApplication\bin\Debug\netstandard2.0\PlantApplication.pdb
+C:\Users\KOSTA\source\repos\PlantApplication\PlantApplication\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\KOSTA\source\repos\PlantApplication\PlantApplication\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\KOSTA\source\repos\PlantApplication\PlantApplication\obj\Debug\netstandard2.0\PlantApplication.AssemblyInfoInputs.cache
+C:\Users\KOSTA\source\repos\PlantApplication\PlantApplication\obj\Debug\netstandard2.0\PlantApplication.AssemblyInfo.cs
+C:\Users\KOSTA\source\repos\PlantApplication\PlantApplication\obj\Debug\netstandard2.0\PlantApplication.csproj.CoreCompileInputs.cache
+C:\Users\KOSTA\source\repos\PlantApplication\PlantApplication\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\KOSTA\source\repos\PlantApplication\PlantApplication\obj\Debug\netstandard2.0\PlantApplication.dll
+C:\Users\KOSTA\source\repos\PlantApplication\PlantApplication\obj\Debug\netstandard2.0\ref\PlantApplication.dll
+C:\Users\KOSTA\source\repos\PlantApplication\PlantApplication\obj\Debug\netstandard2.0\PlantApplication.pdb
+C:\Users\KOSTA\source\repos\PlantApplication\PlantApplication\obj\Debug\netstandard2.0\PlantApplication.csproj.AssemblyReference.cache

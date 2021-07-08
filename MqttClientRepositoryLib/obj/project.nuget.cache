@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8QAnjUDhxaL8Hg1QSSJTpQ7kkN+0HB5/vBX/gpb6qN8P/QglK7sCwPbGN8WreAjxbsKkQW9UFlm/64Jtmnq6XQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KOSTA\\source\\repos\\PlantApplication\\MqttClientRepositoryLib\\MqttClientRepositoryLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KOSTA\\.nuget\\packages\\mqttnet\\3.0.16\\mqttnet.3.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

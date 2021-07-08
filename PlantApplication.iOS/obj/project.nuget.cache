@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "6OG8nShsz5429z64h8jHaoOl7w7TGZ7ovglTDrdS2dtUWj1kDnGk3QdOzekX+3fjOvRg7EoLG/eTQPbC931KBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KOSTA\\source\\repos\\PlantApplication\\PlantApplication.iOS\\PlantApplication.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KOSTA\\.nuget\\packages\\mqttnet\\3.0.16\\mqttnet.3.0.16.nupkg.sha512",
+    "C:\\Users\\KOSTA\\.nuget\\packages\\mqttnet.extensions.managedclient\\3.0.16\\mqttnet.extensions.managedclient.3.0.16.nupkg.sha512",
+    "C:\\Users\\KOSTA\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
